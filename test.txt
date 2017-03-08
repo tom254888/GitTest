@@ -1,7 +1,9 @@
+add line
 hello git !
 <<<<<<< HEAD
 hello2
 hello3
+add line
 hello4
 =======
 change to master
