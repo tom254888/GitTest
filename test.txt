@@ -1,2 +1,3 @@
 hello git !
 change to master
+add other changes
