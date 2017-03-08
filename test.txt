@@ -1,7 +1,8 @@
 hello git !
-
+<<<<<<< HEAD
 hello2
 hello3
 hello4
+=======
 change to master
-
+>>>>>>> refs/remotes/origin/master
